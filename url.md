@@ -21,6 +21,5 @@ permalink: /URLs/
 [Slides by Week](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Slides)
 
 ## Github
-[Sistem Operasi](https://github.com/UI-FASILKOM-OS/SistemOperasi)
 [OS201](https://github.com/UI-FASILKOM-OS/os201)
 
