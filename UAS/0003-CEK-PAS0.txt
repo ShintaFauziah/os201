@@ -1,0 +1,36 @@
+Script started on Mon 08 Jun 2020 01:48:37 PM WIB
+shinta.fauziah@badak:~$ PS1="$ "
+$
+$ echo $GitHubUser
+ShintaFauziah
+$
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$
+$ eval $PSTAMP
+1="\$(eval \$P200608-134846-8c7b-shinta.fauziah/>
+$
+$ PS1="\$(eval \$PSTAMP)"
+200608-134847-2323-shinta.fauziah/> ls -F
+0000-mypub.txt       0003-CEK-PAS0.txt  decrypted.txt  encrypted.txt  key.asc        shintaw04.txt  W04-log.txt
+0001-mytest.txt      0003-OSPUB.txt     Demos/         gpg2           nano.save      testaja.txt
+0002-mytest.txt.asc  coba.txt           encrypt        inilogw04.txt  secretkey.asc  test.txt
+200608-134903-e798-shinta.fauziah/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
+200608-134915-f8cb-shinta.fauziah/> sha1sum -c SHA1SUM
+0000-mypub.txt: OK
+0001-mytest.txt: OK
+0002-mytest.txt.asc: OK
+200608-134924-84cd-shinta.fauziah/> gpg2 -sb -a SHA1SUM
+
+You need a passphrase to unlock the secret key for
+user: "Shinta Fauziah (key for OS) <shinta.fauziah@ui.ac.id>"
+4096-bit RSA key, ID 5DD60D88, created 2020-06-04
+
+200608-134942-5a7d-shinta.fauziah/> gpg2 --verify SHA1SUM.asc
+gpg: assuming signed data in 'SHA1SUM'
+gpg: Signature made Mon 08 Jun 2020 01:49:42 PM WIB using RSA key ID 5DD60D88
+gpg: Good signature from "Shinta Fauziah (key for OS) <shinta.fauziah@ui.ac.id>" [ultimate]
+200608-134952-64e7-shinta.fauziah/> exit
+exit
+
+Script done on Mon 08 Jun 2020 01:49:57 PM WIB
