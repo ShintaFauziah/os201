@@ -2,19 +2,19 @@ Script started on Thu 04 Jun 2020 02:14:56 PM WIB
 
 PS1="$ "
 
-echo $GitHubUshinta.fauziah@badak:~$
-shinta.fauziah@badak:~$ PS1="$ "
-$
+echo $GitHubU]0;shinta.fauziah@badak: ~shinta.fauziah@badak:~$ 
+]0;shinta.fauziah@badak: ~shinta.fauziah@badak:~$ PS1="$ "
+$ 
 $ echo $GitHubUser
 ShintaFauziah
-$
+$ 
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$
+$ 
 $ eval $PSTAMP
 
-PS1="\$200604-141456-2079-shinta.fauziah/>
-$
+PS1="\$200604-141456-2079-shinta.fauziah/> 
+$ 
 $ PS1="\$(eval \$PSTAMP)"
 200604-141457-a41e-shinta.fauziah/> date
 Thu Jun  4 14:15:07 WIB 2020
