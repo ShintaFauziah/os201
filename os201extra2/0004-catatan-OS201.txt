@@ -1,0 +1,206 @@
+# REV01 Tue Jul  22 14:16:32 WIB 2020
+# REV01 Tue Jul  21 22:10:23 WIB 2020
+=====================================
+Shinta Fauziah/A/1806147180/ShintaFauziah
+
+
+1) Buat catatan tambahan untuk pelaksanaan
+==========================================
+
+1a) Persiapan UAS
+    Kendala :
+      1) Tidak mengerti bagaimana cara melakukan beberapa hal teknis yang berada pada berkas soal.
+
+    Kelebihan :
+      1) Pak Rahmat sudah memberikan hint untuk tahap persiapan di scele. Sehingga saya sudah mengetahui secara garis 
+         besar apa yang harus dilakukan.
+      2) Tahap persiapan ini sangat membantu mengerjakan tahp - tahap selanjutnya. Karena tahap persiapan ini dapat 
+         melatih hal - hal teknis untuk tahap - tahap selanjutnya.
+      3) Waktu yang diberikan cukup lama.
+      4) Langkah-langkah yang harus dilakukan pada tahap persiapan dijelaskan dengan jelas dan lengkap.
+      5) Membantu mahasiswa untuk mereview kembali materi yang sudah diajarkan selama kuliah dan dapat mempraktikannya
+         langsung dalam pengerjaan di tahap persiapan.
+
+    Kekurangan :
+      1) Berkas soal terlihat sangat penuh sehingga harus lebih telti dalam membaca soal. Mungkin, kedepannya bagian - 
+         bagian yang penting ditandai dengan tulisan yang tebal (bold).
+
+1b) Tahap 1
+    - Kendala :
+      1) Koneksi internet yang lambat sehingga pernah mengalami kesulitan untuk masuk ke dalam badak.
+
+    - Kelebihan :
+      1) Waktu yang diberikan cukup lama. 
+      2) Membantu mahasiswa untuk dapat mengubah web pribadi sesuai keinginan masing dengan menggunakan jekyll dan 
+         tema standar yang disediakan oleh github pages.
+      3) Membantu mahasiswa mengerti tentang SHA1SUM dan SHA1SUM.asc.
+      4) Soal yang diberikan cukup simple dan lebih mudah dari tahap persiapan.
+      5) Pengerjaan soal dapat dilakukan dengan banyak cara.
+      6) Bobot nilai cukup besar dengan soal yang cukup mudah. 
+
+    - Kekurangan :
+      1) Berkas yang dikumpulkan cukup banyak, sehingga harus teliti dalam mengerjakan dan mengecek kembali berkas - 
+         berkas tersebut.
+      2) Pada tahap 1, banyak mahasiswa yang mengcopy pengerjaan di badak ke dalam github. Sehingga banyak tugas 
+         mahasiswa yang error.
+      3) Terdapat instruksi soal yang kurang jelas. Sehingga terdapat beberapa mahasiswa yang tidak mengumpulkan 
+         (Contohnya adalah script dengan nama UAS-PRIBADI/0004-TUGAS-PAS1.txt).
+   
+1c) Tahap 2
+    - Kendala :
+      1) Terdapat kebingungan jenis GPG apa yang harus digunakan.
+      2) Koneksi internet yang lambat sehingga pernah mengalami kesulitan untuk masuk ke dalam badak.
+
+    - Kelebihan :
+      1) Waktu yang diberikan cukup lama. 
+      2) Dilakukan secara berkelompok sehingga pengerjaan terasa lebih mudah. 
+      3) Beban pekerjaan sesuai dengan waktu yang diberikan.
+      4) Kerangka codingan sudah diberikan sehingga tidak perlu membuat codingan dari awal.
+      5) Membuat mahasiswa mengerti tentang semaphore.
+
+    - Kekurangan :
+      1) Berkas yang dikumpulkan cukup banyak, sehingga harus teliti dalam mengerjakan dan mengecek kembali berkas - 
+         berkas tersebut.
+      2) Mekanisme pembagian kelompok kurang teratur.
+      3) Bobot yang diberikan kurang sesuai dengan soal yang cenderung lebih sulit dibanding tahap 1.
+      4) Terlalu banyak terjadi perubahan deskripsi soal dan perubahan terjadi mendekati deadline.
+
+1d) Tahap 3
+    - Kendala :
+      1) Koneksi internet yang lambat sehingga pernah mengalami kesulitan untuk masuk ke dalam badak.
+      2) Mendapat kelompok yang kurang bisa diajak kerja sama karena semuanya tidak ada yang memahami materi sehingga
+         perlu lebih extra bertanya-tanya kelompok lain untuk memahami soal.
+      3) Kurang terlihat batasan dan pembagian tugas tiap anggota dalam kelompok.
+
+    - Kelebihan :
+      1) Waktu yang diberikan cukup lama.
+      2) Dilakukan secara berkelompok sehingga pengerjaan terasa lebih mudah.
+      3) Soal sedikit mirip dengan tahap sebelumnya sehingga dapat mengimplementasikan kode sebelumnya dengan sedikit 
+         modifikasi.
+      4) Kerangka codingan sudah diberikan sehingga tidak perlu membuat codingan dari awal.
+      5) Lebih paham fungsi-fungsi pada code, sehingga memudahkan pemahaman terhadap tujuan programnya.
+      6) Soal tidak sesulit tahap 2. 
+
+    - Kekurangan :
+      1) Terdapat bagian yang penting tapi ambigu/kurang ditekankan, seperti penamaan file dan sebagainya.
+      2) Berkas yang dikumpulkan cukup banyak, sehingga harus teliti dalam mengerjakan dan mengecek kembali berkas - 
+         berkas tersebut.
+      3) Penilaian kurang jelas dan tidak transparan.
+
+1e) Tahap 4
+    - Kendala :
+      1) Koneksi internet yang lambat sehingga pernah mengalami kesulitan untuk masuk ke dalam badak.
+      2) Mendapat kelompok yang kurang bisa diajak kerja sama karena semuanya tidak ada yang memahami materi sehingga
+         saya perlu lebih extra bertanya-tanya kelompok lain untuk memahami soal.
+
+    - Kelebihan :
+      1) Dilakukan secara berkelompok sehingga pengerjaan terasa lebih mudah.
+      2) Terdapat beberapa function yang dapat diambil dari tahap sebelumnya untuk dimodifikasi.
+      3) Kerangka codingan sudah diberikan sehingga tidak perlu membuat codingan dari awal.
+      4) Tahap 4 bermanfaat dan relevan dengan materi OS.
+
+    - Kekurangan :
+      1) Berkas yang dikumpulkan cukup banyak, sehingga harus teliti dalam mengerjakan dan mengecek kembali berkas - 
+         berkas tersebut.
+      2) Tugas pada tahap 4 sedikit rancu. Diberitahu boleh menggunakan implementasi sendiri, tetapi jika implementasinya
+         terdapat perbedaan disalahkan. Hal tersebut sangatlah merugikan karena peserta ujian seperti diminta untuk 
+         menebak isi pikiran dari pembuat soal.
+      3) Soal lebih sulit dari tahap sebelumnya, namun waktu yang diberikan tidak sepanjang tugas sebelumnya. 
+      4) Penilaian kurang jelas dan tidak transparan. 
+
+
+1f) Tahap 5
+    - Kendala :
+      1) Kurang pemahaman tentang FUSE.
+      2) Kurang mengerti perintah soal dan sulit memahami berkas-berkas yang diberikan.
+
+    - Kelebihan :
+      1) Mahasiswa menjadi lebih tahu salah satu implementasi FUSE.
+      2) Termasuk mudah apabila sudah mengerti materi FUSE.
+      3) Sudah ada dokumentasi terkait soal.
+
+    - Kekurangan :
+      1) Kurang penjelasan teknis.
+      2) Dokumentasi terkait soal sulit dimengerti.
+      3) Perubahan jenis tugas dari kelompok menjadi individu di mana pada tahap 2 - 4 merupakan tugas kelompok.
+      4) Waktu pengerjaan singkat.
+      5) Perubahan bobot nilai menjadi bergantung pada hasil pekerjaan.
+      6) Sumber belajar hanya materi.
+
+
+2) Berikan penjelasan (dugaan) berikut ini
+==========================================
+
+2a) Scripting
+    Scripting adalah kegiatan menulis serangkaian perintah untuk dieksekusi oleh shell. Scripting dapat menggabungkan 
+    perintah yang kita lakukan pada bash yang panjang dan berulang dari ke dalam satu script line function call. Hasil 
+    Scripting yang disimpan dapat mempermudah user untuk record perintah yang pernah dilakukan dan recalling perintah 
+    yang sudah dilakukan. Bash Linux tersedia di hampir semua varian Linux dan tidak memerlukan instalasi terpisah, 
+    untuk memulai Scripting dapat menggunakan command "script namafile.txt" namafile.txt adalah file baru yang akan 
+    menyimpan hasil dari script tersebut. Hasil dari script memuat :
+    - Tanggal dan jam dari "Script started"
+    - Tanggal dan jam dari "Script done"
+    - Tanggal dan jam dari "Prompt"
+    Setelah itu, untuk menyelesaikan script dapat menggunakan command "exit" dan hasil script sudah tersimpan pada 
+    file baru tadi.
+
+2b) FUSE
+    FUSE adalah singkatan dari Filesystem in Userspace merupakan suatu software interface pada UNIX. Fitur paling 
+    penting dari FUSE adalah FUSE memperbolehkan non-privileged user untuk melakukan mount dengan aman. Biasanya FUSE 
+    digunakan untuk membuat virtual file system.  Untuk membuat FUSE ada 3 hal yang harus dibuat, yaitu kernel side 
+    module, libfuse, dan aplikasinya. Untuk mengimplementasikan file system kita harus menulis program terlebih dahulu 
+    yang akan berfungsi untuk melakukan mount pada file system yang baru, merespon jika ada operasi read/write/stat dan 
+    program ini juga akan akan tertaut dengan libfuse. Ketika filesyetem berhasil di mount, handler akan teregister 
+    dengan kernel dan meneruskan operasi read/write/stat/ kepada handler untuk dilakukan respon terhadap operasi 
+    tersebut.
+
+2c) Git
+    Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama - 
+    bersama. Fungsi utama git yaitu mengatur versi dari source code program anda dengan mengasih tanda baris dan code
+    mana yang ditambah atau diganti. Git memudahkan programmer untuk mengetahui perubahan source codenya daripada harus 
+    membuat file baru seperti Program.java, ProgramRevisi.java dsb. Selain itu, dengan git kita tak perlu khawatir code 
+    yang kita kerjakan bentrok, karena setiap developer bias membuat branch sebagai workspacenya. Selain itu, pada git 
+    kita bisa memberi komentar pada source code yang telah ditambah/diubah.
+
+    Perintah-perintah dasar git:
+    a) Git init		: untuk membuat repository pada file lokal yang nantinya ada folder .git
+    b) Git status	: untuk mengetahui status dari repository lokal
+    c) Git add 		: menambahkan file baru pada repository yang dipilih
+    d) Git commit 	: untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository.
+    e) Git push 	: untuk mengirimkan perubahan file setelah di commit ke remote repository.
+    f) Git branch 	: melihat seluruh branch yang ada pada repository
+    g) Git checkout 	: menukar branch yang aktif dengan branchyang dipilih
+    h) Git merge 	: untuk menggabungkan branch yang aktif dan branch yang dipilih
+    i) Git clone 	: membuat Salinan repository lokal
+
+
+2d) GitHub
+    GitHub adalah sebuah aplikasi berbasis website dengan Version Control System (VCS) yang menyediakan layanan untuk 
+    menyimpan repository dengan gratis. Repository merupakan tempat yang dapat Anda gunakan untuk menyimpan berbagai 
+    file berupa source code. Namun tak hanya itu, dengan aplikasi ini Anda juga dapat melakukan kolaborasi dalam 
+    mengerjakan project tertentu agar dapat terus melakukan update secara rutin, termasuk melacak dan menyimpan 
+    perubahan-perubahan yang terjadi dalam project tersebut. Aplikasi ini termasuk sangat populer dan banyak digunakan
+    termasuk oleh perusahaan-perusahaan besar skala gunia seperti Facebook, Google, dan Twitter.
+
+2e) GitHub Page
+    Github page merupakan layanan hosting website statis dari Github. Github page membolehkan kita untuk menampilkan 
+    file HTML yang ada pada repositori git sebagai halaman web online. Github page hanya merender file client-side 
+    scripting (HTML, CSS, JS) dan tidak menjalankan server side scripting seperti PHP. Kita bisa membuat website 
+    menggunakan Jekyll (generator website statis berbasis Ruby) yang dapat langsung dieksekusi pada Github page. 
+
+2f) GnuPG
+    GnuPG adalah suatu aplikasi yang dipakai untuk melakukan proses enkripsi data, dekripsi data, dan penandatanganan 
+    digital untuk selanjutnya dilakukan proses pertukaran data antar perangkat. GnuPG ini bisa disebut juga dengan GPG. 
+    Aplikasi GPG dilengkapi dengan fungsi manajemen kunci keamanan seperti pembuatan kunci, penyuntingan kunci, dan 
+    penghapusan kunci keamanan. Aplikasi GPG ini berbentuk aplikasi perintah baris atau command line yang dapat 
+    dijalankan melalui aplikasi Terminal di setiap sistem operasi.
+
+2g) SHA1SUM
+    Sha1sum merupakan salah satu algoritma hashing yang sering digunakan untuk enkripsi data. Hasil dari sha1 adalah 
+    data dengan lebar 20 byte atau 160 bit, biasa ditampilkan dalam bentuk bilangan heksadesimal 40 digit.
+
+2h) SHA1SUM.asc
+
+3) Bahas dari sudut pandang peserta OS201, berkas berikut ini : 
+https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+===============================================================================

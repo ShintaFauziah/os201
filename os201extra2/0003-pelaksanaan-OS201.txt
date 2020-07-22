@@ -1,0 +1,99 @@
+# REV01 Tue Jul  22 14:10:25 WIB 2020
+# REV01 Tue Jul  21 21:24:23 WIB 2020
+=====================================
+Shinta Fauziah/A/1806147180/ShintaFauziah
+
+
+1. CATATAN SINGKAT PELAKSANAAN MATA AJAR OS SELAMA SEMESTER INI
+===============================================================
+
+Di awal semester, dosen OS sudah memberikan akses materi dan soal - soal tahun lalu dengan mudah. Sehingga mahasiswa
+tidak kesulitan lagi untuk mencari materi dan soal untuk latihan. Pada saat proses pembelajaran secara langsung, dosen
+hanya membahas materi - materi yang dianggap sulit oleh mahasiswa (tidak urut dari awal materi). Hal ini sangat
+bergantung pada pemahaman dan proses belajar mahasiswa di luar kelas. Jika di luar kelas mahasiswa tidak memahami materi 
+pada week tersebut, maka proses pembelajaran terasa "alot". Hal ini mungkin dapat diantisipasi dengan pemeriksaan memo 
+yang berisi materi yang telah dipelajari pada minggu tersebut. Sehingga dosen dapat memastikan bahwa mahasiswa telah 
+belajar sebelumnya. Kemudian, bencana covid datang dan proses pembelajaran dilakukan secara daring. Namun, pembelajaran
+secara daring ini dirasa kurang efektif. Mata kuliah lainnya menggunakan zoom atau google meet sebagai media untuk
+proses pembelajaran. Namun, OS hanya menggunakan scele dan Whatsapp sebagai media untuk menyampaikan informasi. Mungkin,
+pada semester depan, dosen dapat menggunakan media seperti zoom atau google meet untuk menyampaikan proses pembelajaran.
+Di kuliah daring ini, dosen juga tetap meminta mahasiswa untuk mencoba demo sama seperti sebelum UTS. 
+
+2. PELAKSANAAN PELAKSANAAN PENGAJARAN SEBELUM DAN SESUDAH UTS
+=============================================================
+
+- Sebelum UTS
+1) Sebelum UTS, pembelajaran dilakukan secara tatap muka. Penyampaian pesan pada tatap muka dirasa lebih efisien, 
+   karena Mahasiswa lebih menangkap pesan - pesan yang disampaikan.
+2) Jika sedang melakukan pembahasan soal, mahasiswa dan dosen dapat berdiskusi secara langsung. Sehingga mahasiswa 
+   lebih paham akan soal - soal yang sedang dibahas. 
+3) Pembahasan materi hanya dilakukan untuk materi yang dianggap sulit oleh mahasiswa (tidak urut dari awal materi).
+   Hal ini sangat bergantung pada pemahaman dan proses belajar mahasiswa di luar kelas. Jika di luar kelas mahasiswa 
+   tidak memahami materi pada week tersebut, maka proses pembelajaran dirasa "alot".
+4) Agar pembelajaran tidak "alot", dosen dapat mengantisipasi dengan melakukan pemeriksaan memo yang berisi materi yang
+   telah dipelajari pada week tersebut. Sehingga dosen dapat memastikan bahwa mahasiswa telah belajar sebelumnya.
+
+- Sesudah UTS
+1) Pembelajaran dilakukan secara daring. 
+2) Sudah tidak ada lagi pembahasan soal seperti sebelum UTS. 
+3) Zoom juga hanya dilakukan 2 kali dalam 1 semester. Mungkin, untuk semester depan dimana proses pembelajaran masih
+   dilakukan secara daring, dosen dapat melakukan zoom secara rutin agar mahasiswa tetap mendapatkan informasi - 
+   informasi penting.
+3) Zoom tersebut juga dapat dipergunakan untuk melakukan pembahasan soal sehingga mahasiswa lebih memahami materi OS.
+4) Tanya jawab dilakukan melalui scele. 
+
+3. PERBANDINGAN UTS OS DENGAN UTS LAINNYA
+=========================================
+
+- Perbandingan UTS OS semester ini dengan UTS OS tahun - tahun sebelumnya
+1) UTS tahun ini dan tahun lalu dilakukan secara langsung (tatap muka) menggunakan kertas. Namun, UTS OS pada semester 
+   ini hanya berbentuk essay dan cenderung lebih banyak bentuk soal programming. Berbeda dengan UTS OS tahun - tahun 
+   sebelumnya dimana terdapat bentuk Pilihan Ganda (PG) dan Benar Salah (BS). 
+2) Dengan bentuk soal programming yang lebih banyak, menurut saya lebih menyulitkan dibanding dengan bentuk soal PG 
+   dan BS. Karena terdapat bentuk soal essay yang mengacu pada jawaban sebelumnya. Sehingga apabila jawaban sebelumnya 
+   salah, maka jawaban soal selanjutnya juga salah.
+
+- Perbandingan UTS OS dengan UTS mata kuliah lainnya
+1) UTS OS berbeda dengan UTS mata kuliah lainnya. Karena UTS OS dilakukan secara langsung (tatap muka) sedangkan UTS 
+   lainnya dilakukan secara daring. 
+2) UTS pada mata kuliah lainnya terdapat simulasi UTS daring seperti mata kuliah Sistem Sistem Perusahaan (SSP) dan 
+   Basis Data. 
+3) Bentuk soal UTS OS adalah essay yang dijawab langsung di kertas. Hal ini berbeda dengan mata kuliah lainnya dimana 
+   terdapat soal PG dan BS menggunakan fitur kuis scele dan essay yang dikerjakan pada kertas, kemudian difoto dan 
+   diupload.
+4) Pengerjaan Essay pada kertas yang difoto dan diupload rumit untuk dilakukan. Apalagi pada UTS tersebut diberi batas 
+   waktu untuk setiap soal (Misal soal 1 diberi waktu 15 menit). 
+
+4. PERBANDINGAN UAS OS DENGAN UAS LAINNYA
+=========================================
+
+- Perbandingan UAS OS kelas A,B, dan C dengan UAS OS D dan E
+1) UAS OS kelas A,B, dan C dilakukan secara bertahap. Berbeda dengan UAS OS kelas D dan E yang dilakukan sekali secara 
+   langsung. Bagi saya, ini sangat memudahkan karena waktu yang diberikan cukup lama untuk setiap tahapnya. Sehingga 
+   dapat lebih fokus dan berhati - hati karena tidak diburu waktu. 
+2) UAS OS kelas A,B, dan C dilakukan secara berkelompok atau individu. Sedangkan UAS OS kelas D dan E hanya dilakukan
+   secara berkelompok. Menurut saya, penerapan UAS berkelompok atau individu kelas A, B, dan C sudah tepat dilakukan. 
+   Misalkan tahap 1 yang dilakukan secara individu memang dapat dikerjakan secara individu. Tahap 3 dan tahap 4 yang 
+   cenderung sulit, dilakukan secara berkelompok.
+3) Metode pengumpulan UAS OS kelas A,B, dan C dengan melakukan push file ke dalam github. Sedangkan UAS OS kelas D dan
+   E dilakukan dengan mengupload file ke dalam scele.
+4) Soal UAS OS kelas A, B, dan C diunggah di github dan harus di-decrypt terlebih dahulu. Bagi saya, ini dapat menambah
+   pengetahuan saya tentang decrypt dan encrypt suatu file. Sedangkan soal UAS OS kelas D dan E, langsung dapat diakses
+   pada scele.
+5) Pada UAS OS D dan E, terdapat penilaian peer kelompok UAS. Sedangkan UAS OS A, B, dan C tidak terdapat penilaian peer
+   kelompok, sehingga banyak mahasiswa yang merasa pembagian tugas di dalam kelompok tidak adil, namun mendapat nilai
+   yang sama. 
+6) Pada UAS OS A, B, dan C, agar file yang diunggah ke repo tidak dapat dilihat oleh selain orang yang berhak untuk 
+   melihat, key enkripsi hanya dimiliki oleh peserta ujian pembuat file dan dosen pengampu ujian. 
+
+- Perbandingan UAS OS dengan UAS mata kuliah lainnya
+1) UAS mata kuliah lainnya dilakukan sama seperti UTS dimana terdapat soal PG dan BS menggunakan fitur kuis scele dan 
+   essay yang dikerjakan pada kertas, kemudian difoto dan diupload. Sedangkan UAS OS dilakukan secara bertahap dan 
+   dan dipush ke dalam github.
+2) UAS OS semester ini sangat praktikal. Tidak hanya mengisi soal pada kertas, namun mengoding langsung pada sistem 
+   operasi linux. Hal ini sangat bermanfaat bagi saya, karena dengan ujian yang paraktikal seperti ini saya lebih
+   mengerti akan operasi operasi yang terdapat pada sistem operasi linux, FUSE, dan lain sebagainya.
+3) Pengumuman terkait UAS OS diberikan melalui Whatsapp dan terdapat juga tanya jawab pada scele. Sedangkan pengumuman
+   UAS mata kuliah lainnya diberikan melalui scele dan biasanya mahasiswa bertanya melalui email. Tanya jawab pada scele
+   ini lebih membantu mahasiswa untuk mendapatkan informasi penting dibanding tanya jawab melalui email. Hal ini 
+   dikarenakan email hanya bisa dilihat oleh mahasiswa yang bersangkutan sedangkan scele dapat dilihat oleh semuanya.
