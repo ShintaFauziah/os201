@@ -1,4 +1,5 @@
-# REV01 Tue Jul  22 14:16:32 WIB 2020
+# REV03 Tue Jul  23 18:05:50 WIB 2020
+# REV02 Tue Jul  22 14:16:32 WIB 2020
 # REV01 Tue Jul  21 22:10:23 WIB 2020
 =====================================
 Shinta Fauziah/A/1806147180/ShintaFauziah
@@ -10,6 +11,8 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
 1a) Persiapan UAS
     Kendala :
       1) Tidak mengerti bagaimana cara melakukan beberapa hal teknis yang berada pada berkas soal.
+      2) Kemampuan untuk pembuatan script yang menurut saya sudah cukup advanced yang sangat dibutuhkan disini cukup 
+         menghambat proses pengerjaan.
 
     Kelebihan :
       1) Pak Rahmat sudah memberikan hint untuk tahap persiapan di scele. Sehingga saya sudah mengetahui secara garis 
@@ -49,7 +52,10 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
 1c) Tahap 2
     - Kendala :
       1) Terdapat kebingungan jenis GPG apa yang harus digunakan.
-      2) Koneksi internet yang lambat sehingga pernah mengalami kesulitan untuk masuk ke dalam badak.
+      2) Pada awal pengerjaan sangat terhambat pada implementasi mmap untuk multithreading yang tidak ada pada weekly
+         demo.
+      3) Perubahan yang cukup besar antara tahap 1 dengan tahap 2 yang ternyata tahap 2 jauh lebih rumit dibandingkan
+         tahap 1, membuat mahasiswa kebingungan.
 
     - Kelebihan :
       1) Waktu yang diberikan cukup lama. 
@@ -64,6 +70,8 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
       2) Mekanisme pembagian kelompok kurang teratur.
       3) Bobot yang diberikan kurang sesuai dengan soal yang cenderung lebih sulit dibanding tahap 1.
       4) Terlalu banyak terjadi perubahan deskripsi soal dan perubahan terjadi mendekati deadline.
+      5) Beberapa ouput seperti TIME[16], nilai dari 16 diperoleh darimana kurang jelas, baru menjadi jelas setelah 
+         terdapat salah satu peserta ujian yang menanyakan melalui forum di scele.
 
 1d) Tahap 3
     - Kendala :
@@ -102,9 +110,9 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     - Kekurangan :
       1) Berkas yang dikumpulkan cukup banyak, sehingga harus teliti dalam mengerjakan dan mengecek kembali berkas - 
          berkas tersebut.
-      2) Tugas pada tahap 4 sedikit rancu. Diberitahu boleh menggunakan implementasi sendiri, tetapi jika implementasinya
-         terdapat perbedaan disalahkan. Hal tersebut sangatlah merugikan karena peserta ujian seperti diminta untuk 
-         menebak isi pikiran dari pembuat soal.
+      2) Tugas pada tahap 4 sedikit rancu. Diberitahu boleh menggunakan implementasi sendiri, tetapi jika 
+         implementasinya terdapat perbedaan disalahkan. Hal tersebut sangatlah merugikan karena peserta ujian seperti 
+         diminta untuk menebak isi pikiran dari pembuat soal.
       3) Soal lebih sulit dari tahap sebelumnya, namun waktu yang diberikan tidak sepanjang tugas sebelumnya. 
       4) Penilaian kurang jelas dan tidak transparan. 
 
@@ -200,7 +208,63 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     data dengan lebar 20 byte atau 160 bit, biasa ditampilkan dalam bentuk bilangan heksadesimal 40 digit.
 
 2h) SHA1SUM.asc
+    Format .asc sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai
+    untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara 
+    digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File
+    ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode 
+    otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya 
+    dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
+
 
 3) Bahas dari sudut pandang peserta OS201, berkas berikut ini : 
-https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
-===============================================================================
+   https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+==================================================================================
+
+3a) Tantangan
+    Penyelenggaraan ujian secara daring memang sulit. Mekanisme penyelenggaraan harus dipikirkan dan di rencanakan
+    dengan matang. Karena mekanismenya pasti berbeda dibanding penyelenggaraan ujian secara langsung. Pada saat ujian
+    daring kemarin, banyak mekanisme pengerjaan dan penilaian yang direvisi. Hal ini membuat mahasiswa menjadi bingung.
+    Saran untuk ujian daring semester depan, mekanisme pengerjaan dan penilaian harus dipikirkan dengan matang agar
+    informasi yang diterima mahasiswa jelas dan tidak membingungkan. 
+
+    Namun disamping itu, saya setuju akan hal yang disampaikan Pak Rahmat bahwa kecenderungan hasil ujian sama dan 
+    merata membuat sulit untuk memberikan penilaian. Akan tetapi, modifikasi mekanisme pengerjaan jangan dijadikan untuk
+    membuat kesalahan prosedural yang dapat mengurangi nilai peserta. Mungkin untuk selanjutnya, Pak Rahmat dapat 
+    membuat soal dengan banyak versi, sehingga tidak semua mahasiswa mengerjakan soal yang sama. Selain itu, Pak Rahmat 
+    dapat memberikan waktu pengerjaan yang sesuai dengan tingkat kesulitan soal agar upaya bekerja sama dapat 
+    diminimalisir.  
+
+3b) Study From Home
+    Mata kuliah OS berjumlah 12 SKS. Namun, selama PJJ ini dirasa pembelajaran study from home kurang efektif. Biasanya,
+    mata kuliah lainnya menggunakan zoom/google meet selama PJJ berlangsung. Sedangkan OS, hanya melakukan zoom 2 kali
+    selama semester kemarin. Mungkin untuk semester depan, zoom dapat dilakukan dengan rutin untuk melakukan pembahasan
+    demo dan materi sehingga mahasiswa lebih memahami materi. Kemudian, saya rasa tidak semua mahasiswa mencoba demo
+    selama study from home. Hal ini mungkin dapat diantisipasi dengan adanya forum pertanyaan tentang demo pada minggu
+    tersebut dan apabila mahasiswa dapat menjawab, mahasiswa mendapat poin partisipasi. 
+
+3c) Whatsapp Group dan Scele
+    OS menggunakan whatsapp group untuk menyampaikan informasi dan scele untuk tanya jawab materi dan demo. Selain itu,
+    apabila terdapat pertanyaan - pertanyaan yang bersifat pribadi, mahasiswa dapat mengirimkan pesan melalui email.
+    Berbeda dengan mata kuliah lainnya dimana scele digunakan untuk menyampaikan informasi dan tanya jawab biasanya 
+    dilakukan melalui email. Menurut saya, tanya jawab pada scele jauh lebih baik karena semua mahasiswa dapat melihatnya. 
+    Tidak seperti email yang hanya bisa dilihat oleh mahasiswa yang bersangkutan. Namun, dengan adanya whatsapp group
+    dan scele ini, mahasiswa harus mengecek dengan frekuensi yang cukup sering sehingga mahasiswa tidak ketinggalan 
+    informasi.
+
+3d) Git dan Github
+    Pada awalnya, absen dilakukan melalui scele. Namun setelah itu, dibentuk proyek github bersama dan absen dilakukan
+    di dalam github. Namun, banyak mahasiswa yang terlambat menjadi anggota github tersebut. Sehingga absen dilakukan
+    di 2 tempat, yaitu di scele dan github. Sampai akhirnya UAS pun dilakukan dengan push file ke dalam github. 
+
+    Pada awalnya, saya merasa bingung karena pertama kali menggunakan github. Belum terlalu paham akan perintah perintah
+    git. Namun, dengan pemakaian github ini, membuat saya lebih paham akan penggunaan perintah - perintah git dan github. 
+    Selain itu, saya juga menjadi mengerti untuk melakukan push dan pull file dari badak ke dalam github.
+
+3e) Github pages
+    Pada UAS OS, mahasiswa diminta untuk membuat github page. Dengan adanya tugas ini, memberi pengetahuan baru bahwa 
+    membuat website dapat dilakukan di github. Saya juga dapat membuat website menggunakan Jekyll (generator website 
+    statis berbasis Ruby) yang dapat langsung dieksekusi pada Github page.
+
+3f) Absen
+    Pada mulanya absen dilakukan di scele, namun setelah itu beralih ke github. Namun, untuk melakukan absen di scele
+    dan github harus menunggu keadaan sepi. Karena kalau tidak akan bertabrakan dengan mahasiswa lainnya.
