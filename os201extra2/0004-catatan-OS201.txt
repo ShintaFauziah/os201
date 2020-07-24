@@ -17,7 +17,7 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
          menghambat proses pengerjaan.
 
     Kelebihan :
-      1) Pak Rahmat sudah memberikan hint untuk tahap persiapan di scele. Sehingga saya sudah mengetahui secara garis 
+      1) Pak Rahmat sudah memberikan hint untuk tahap persiapan di SCELE. Sehingga saya sudah mengetahui secara garis 
          besar apa yang harus dilakukan.
       2) Tahap persiapan ini sangat membantu mengerjakan tahp - tahap selanjutnya. Karena tahap persiapan ini dapat 
          melatih hal - hal teknis untuk tahap - tahap selanjutnya.
@@ -73,7 +73,7 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
       3) Bobot yang diberikan kurang sesuai dengan soal yang cenderung lebih sulit dibanding tahap 1.
       4) Terlalu banyak terjadi perubahan deskripsi soal dan perubahan terjadi mendekati deadline.
       5) Beberapa ouput seperti TIME[16], nilai dari 16 diperoleh darimana kurang jelas, baru menjadi jelas setelah 
-         terdapat salah satu peserta ujian yang menanyakan melalui forum di scele.
+         terdapat salah satu peserta ujian yang menanyakan melalui forum di SCELE.
 
 1d) Tahap 3
     - Kendala :
@@ -247,27 +247,27 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     tersebut dan apabila mahasiswa dapat menjawab, mahasiswa mendapat poin partisipasi. 
 
 3d) Whatsapp Group, Email
-    OS menggunakan whatsapp group untuk menyampaikan informasi dan scele untuk tanya jawab materi dan demo. Selain itu,
+    OS menggunakan whatsapp group untuk menyampaikan informasi dan SCELE untuk tanya jawab materi dan demo. Selain itu,
     apabila terdapat pertanyaan - pertanyaan yang bersifat pribadi, mahasiswa dapat mengirimkan pesan melalui email.
-    Berbeda dengan mata kuliah lainnya dimana scele digunakan untuk menyampaikan informasi dan tanya jawab biasanya 
-    dilakukan melalui email. Menurut saya, tanya jawab pada scele jauh lebih baik karena semua mahasiswa dapat melihatnya. 
+    Berbeda dengan mata kuliah lainnya dimana SCELE digunakan untuk menyampaikan informasi dan tanya jawab biasanya 
+    dilakukan melalui email. Menurut saya, tanya jawab pada SCELE jauh lebih baik karena semua mahasiswa dapat melihatnya. 
     Tidak seperti email yang hanya bisa dilihat oleh mahasiswa yang bersangkutan. Namun, dengan adanya whatsapp group
-    dan scele ini, mahasiswa harus mengecek dengan frekuensi yang cukup sering sehingga mahasiswa tidak ketinggalan 
+    dan SCELE ini, mahasiswa harus mengecek dengan frekuensi yang cukup sering sehingga mahasiswa tidak ketinggalan 
     informasi.
 
-3e) Scele
-    Scele memuat banyak informasi penting. Scele dipergunakan untuk tanya jawab seputar materi OS mulai dari W06 - W10. 
-    Untuk bertanya di scele mahasiswa harus membuat thread baru. Namun banyak mahasiswa yang "membajak" thread mahasiswa
+3e) SCELE
+    SCELE memuat banyak informasi penting. SCELE dipergunakan untuk tanya jawab seputar materi OS mulai dari W06 - W10. 
+    Untuk bertanya di SCELE mahasiswa harus membuat thread baru. Namun banyak mahasiswa yang "membajak" thread mahasiswa
     lainnya. Mungkin hal ini dikarenakan mahasiswa merasa apa yang ingin ditanyakan mirip dengan yang sudah ditanyakan 
     mahasiswa lain. Sehingga mahasiswa akhirnya ikut bertanya pada thread mahasiswa lain. Namun, dengan thread yang
-    begitu banyak, forum diskusi di scele terlihat sangat berantakan. Mahasiswa perlu lebih teliti dalam melihat judul
-    thread yang ada pada scele. Selain itu, scele juga digunakan untuk Absen. Agar tidak ketinggalan informasi, mahasiswa
-    perlu membuka scele dengan frekuensi yang cukup sering. 
+    begitu banyak, forum diskusi di SCELE terlihat sangat berantakan. Mahasiswa perlu lebih teliti dalam melihat judul
+    thread yang ada pada SCELE. Selain itu, SCELE juga digunakan untuk Absen. Agar tidak ketinggalan informasi, mahasiswa
+    perlu membuka SCELE dengan frekuensi yang cukup sering. 
 
 3f) Git dan Github
-    Pada awalnya, absen dilakukan melalui scele. Namun setelah itu, dibentuk proyek github bersama dan absen dilakukan
+    Pada awalnya, absen dilakukan melalui SCELE. Namun setelah itu, dibentuk proyek github bersama dan absen dilakukan
     di dalam github. Namun, banyak mahasiswa yang terlambat menjadi anggota github tersebut. Sehingga absen dilakukan
-    di 2 tempat, yaitu di scele dan github. Sampai akhirnya UAS pun dilakukan dengan push file ke dalam github. 
+    di 2 tempat, yaitu di SCELE dan github. Sampai akhirnya UAS pun dilakukan dengan push file ke dalam github. 
 
     Pada awalnya, saya merasa bingung karena pertama kali menggunakan github. Belum terlalu paham akan perintah perintah
     git. Namun, dengan pemakaian github ini, membuat saya lebih paham akan penggunaan perintah - perintah git dan github. 
@@ -279,7 +279,7 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     statis berbasis Ruby) yang dapat langsung dieksekusi pada Github page.
 
 3h) Absen
-    Pada mulanya absen dilakukan di scele, namun setelah itu beralih ke github. Namun, untuk melakukan absen di scele
+    Pada mulanya absen dilakukan di SCELE, namun setelah itu beralih ke github. Namun, untuk melakukan absen di SCELE
     dan github harus menunggu keadaan sepi. Karena kalau tidak akan bertabrakan dengan mahasiswa lainnya (race 
     condition)
 
@@ -305,7 +305,7 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     
 3m) Persiapan UAS
     Persiapan UAS dilakukan dalam jangka waktu yang cukup lama sehingga mahasiswa memiliki waktu lebih untuk mengerjakan
-    tugas tersebut. Kemudian sebelumnya Pak Rahmat juga telah membagikan thread di scele tentang pembuatan script yang 
+    tugas tersebut. Kemudian sebelumnya Pak Rahmat juga telah membagikan thread di SCELE tentang pembuatan script yang 
     sangat membantu untuk persiapan UAS dan tahap - tahap selanjutnya. Pada awalnya, saya sempat mengalami kesulitan 
     karena beberapa hal teknis yang berada pada berkas soal. Namun, setelah paham, ini sangat membantu untuk mengerjakan
     tahap - tahap selanjutnya.
