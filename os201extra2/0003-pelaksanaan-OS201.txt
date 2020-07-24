@@ -1,3 +1,4 @@
+# REV04 Tue Jul  23 18:30:04 WIB 2020
 # REV03 Tue Jul  23 15:11:30 WIB 2020
 # REV02 Tue Jul  22 14:10:25 WIB 2020
 # REV01 Tue Jul  21 21:24:23 WIB 2020
@@ -72,8 +73,7 @@ scele untuk tanya jawab materi ataupun demo.
 4) Soal UAS OS kelas A, B, dan C diunggah di github dan harus di-decrypt terlebih dahulu. Sedangkan soal UAS OS kelas D
    dan E, langsung dapat diakses pada scele.
 5) Pada UAS OS D dan E, terdapat penilaian peer kelompok UAS. Sedangkan UAS OS A, B, dan C tidak terdapat penilaian peer
-   kelompok, sehingga banyak mahasiswa yang merasa pembagian tugas di dalam kelompok tidak adil, namun mendapat nilai
-   yang sama. 
+   kelompok.
 6) Pada UAS OS A, B, dan C, agar file yang diunggah ke repo tidak dapat dilihat oleh selain orang yang berhak untuk 
    melihat, key enkripsi hanya dimiliki oleh peserta ujian pembuat file dan dosen pengampu ujian. 
 
@@ -84,7 +84,6 @@ scele untuk tanya jawab materi ataupun demo.
    dan dipush ke dalam github.
 2) Penilaian UAS OS membutuhkan waktu pengecekkan yang cukup lama. Sedangkan nilai UAS beberapa mata kuliah lainnya  
    langsung keluar setelah ujian selesai (seperti SIAK dan TBA). 
-3) UAS OS semester ini sangat praktikal. Tidak hanya mengisi soal pada kertas, namun mengoding langsung pada sistem 
-   operasi linux. 
+3) UAS OS semester ini sangat praktikal. Tidak hanya mengisi soal, namun mengoding langsung pada sistem operasi linux. 
 4) Pengumuman terkait UAS OS diberikan melalui Whatsapp dan terdapat juga tanya jawab pada scele. Sedangkan pengumuman
    UAS mata kuliah lainnya diberikan melalui scele dan biasanya mahasiswa bertanya melalui email.
