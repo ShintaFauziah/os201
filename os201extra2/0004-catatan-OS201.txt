@@ -1,7 +1,9 @@
-# REV05 Tue Jul  24 16:02:47 WIB 2020
-# REV04 Tue Jul  23 21:10:34 WIB 2020
-# REV03 Tue Jul  23 18:05:50 WIB 2020
-# REV02 Tue Jul  22 14:16:32 WIB 2020
+# REV07 Mon Jul  27 18:56:52 WIB 2020
+# REV06 Mon Jul  27 14:04:27 WIB 2020
+# REV05 Fri Jul  24 16:02:47 WIB 2020
+# REV04 Thu Jul  23 21:10:34 WIB 2020
+# REV03 Thu Jul  23 18:05:50 WIB 2020
+# REV02 Wed Jul  22 14:16:32 WIB 2020
 # REV01 Tue Jul  21 22:10:23 WIB 2020
 =====================================
 Shinta Fauziah/A/1806147180/ShintaFauziah
@@ -237,6 +239,16 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     diminimalisir.  
 
 3b) Problem
+    - Wifi yang sering kali terputus sehingga harus kembali mengulang masuk ke dalam badak
+    - Push tidak langsung dari badak. Hal ini menyebabkan terjadi perbedaan antara file yang telah dibuat di badak dan
+      file yang di push di github tidak sama
+    - Status pengerjaan membingungkan dan tidak dijelaskan dengan detail
+    - Sistem penilaian yang kurang transaparan dan tidak detail
+    - Terkadang perintah yang terdapat di berkas soal sulit untuk dimengerti. 
+    - Kurang pahamnya akan command yang digunakan. Misalnya command untuk encrypt suatu file kemudian harus di sign
+    - Informasi mengenai waktu pengerjaan tugas sangat tiba - tiba. Tidak ada informasi tetap waktu pengerjaan UAS
+      tahap 1 - tahap 5
+    - Informasi mengenai waktu perbaikan tidak jelas
 
 3c) Study From Home
     Mata kuliah OS berjumlah 12 SKS. Namun, selama PJJ ini dirasa pembelajaran study from home kurang efektif. Biasanya,
@@ -246,7 +258,7 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     selama study from home. Hal ini mungkin dapat diantisipasi dengan adanya forum pertanyaan tentang demo pada minggu
     tersebut dan apabila mahasiswa dapat menjawab, mahasiswa mendapat poin partisipasi. 
 
-3d) Whatsapp Group, Email
+3d) Whatsapp Group dan Email
     OS menggunakan whatsapp group untuk menyampaikan informasi dan SCELE untuk tanya jawab materi dan demo. Selain itu,
     apabila terdapat pertanyaan - pertanyaan yang bersifat pribadi, mahasiswa dapat mengirimkan pesan melalui email.
     Berbeda dengan mata kuliah lainnya dimana SCELE digunakan untuk menyampaikan informasi dan tanya jawab biasanya 
@@ -255,7 +267,16 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     dan SCELE ini, mahasiswa harus mengecek dengan frekuensi yang cukup sering sehingga mahasiswa tidak ketinggalan 
     informasi.
 
-3e) SCELE
+3e) Youtube
+    Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat 
+    berguna untuk pemahaman saat pelaksanaan UAS seperti pada mata kuliah OS genap 2020. 
+
+3f) Tempat bekerja di luar GIT
+    Selain bekerja melaui GIT, mahasiswa menggunakan linux server dari fakultas kami yang bernama badak.Mahasiswa juga 
+    menggunakan pemograman bash. Untuk memulai pemrograman bash, yang kita perlukan hanya Terminal dan Text Editor. Untuk
+    Text editornya disini saya menggunakan vim. Selain itu, mahasiswa juga menggunakan make dan awk.
+
+3g) SCELE
     SCELE memuat banyak informasi penting. SCELE dipergunakan untuk tanya jawab seputar materi OS mulai dari W06 - W10. 
     Untuk bertanya di SCELE mahasiswa harus membuat thread baru. Namun banyak mahasiswa yang "membajak" thread mahasiswa
     lainnya. Mungkin hal ini dikarenakan mahasiswa merasa apa yang ingin ditanyakan mirip dengan yang sudah ditanyakan 
@@ -264,7 +285,7 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     thread yang ada pada SCELE. Selain itu, SCELE juga digunakan untuk Absen. Agar tidak ketinggalan informasi, mahasiswa
     perlu membuka SCELE dengan frekuensi yang cukup sering. 
 
-3f) Git dan Github
+3h) Git dan Github
     Pada awalnya, absen dilakukan melalui SCELE. Namun setelah itu, dibentuk proyek github bersama dan absen dilakukan
     di dalam github. Namun, banyak mahasiswa yang terlambat menjadi anggota github tersebut. Sehingga absen dilakukan
     di 2 tempat, yaitu di SCELE dan github. Sampai akhirnya UAS pun dilakukan dengan push file ke dalam github. 
@@ -273,69 +294,69 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     git. Namun, dengan pemakaian github ini, membuat saya lebih paham akan penggunaan perintah - perintah git dan github. 
     Selain itu, saya juga menjadi mengerti untuk melakukan push dan pull file dari badak ke dalam github.
 
-3g) Github pages
+3i) Github pages
     Pada UAS OS, mahasiswa diminta untuk membuat github page. Dengan adanya tugas ini, memberi pengetahuan baru bahwa 
     membuat website dapat dilakukan di github. Saya juga dapat membuat website menggunakan Jekyll (generator website 
     statis berbasis Ruby) yang dapat langsung dieksekusi pada Github page.
 
-3h) Absen
+3j) Absen
     Pada mulanya absen dilakukan di SCELE, namun setelah itu beralih ke github. Namun, untuk melakukan absen di SCELE
-    dan github harus menunggu keadaan sepi. Karena kalau tidak akan bertabrakan dengan mahasiswa lainnya (race 
-    condition)
+    dan github harus menunggu keadaan sepi. Karena kalau tidak akan bertabrakan dengan mahasiswa lainnya (Race 
+    Condition)
 
-3i) Scripting
+3k) Scripting
     Awalnya, mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya 
     mengikuti langkah-langkah yang diberikan dengan cara copy and paste. Namun semakin lama, mahasiswa semakin mengerti 
     tentang scripting. Menurut saya, dengan UAS OS yang praktikal seperti ini, membuat mahasiswa menjadi lebih paham 
     karena mencoba mengoding langsung. 
 
-3j) SHA1SUM dan SHA1SUM.asc
+3l) SHA1SUM dan SHA1SUM.asc
     Mahasiswa diminta untuk menghitung SHA1SUM kembali. Pada saat UAS, mahasiswa hanya mengerjakan apa yang diperintahkan.
     Namun, tidak mengerti apa maksud dari SHA1SUM tersebut.
 
-3k) GNUPG
+3m) GNUPG
     Mahasiswa merasa bingung akan jenis GPG apa yang harus digunakan. Karena dalam berkas soal tidak ditulis secara 
     detail mengenai jenis GPG yang harus digunakan. Kemudian banyak sekali perintah enkripsi yang diminta. Terdapat
     permintaan enkripsi tanpa atau dengan sign. Awalnya mahasiswa bingung bagaimana command untuk enkripsi tanpa atau
     dengan sign. Namun, setelah GSGS dan TSTS, akhirnya mahasiswa mengetahui bagaimana command untuk enkripsi. 
 
-3l) Pembentukkan Kelompok
+3n) Pembentukkan Kelompok
     Mahasiswa dapat membentuk kelompok dengan mandiri. Kelompok tersebut juga dapat terdiri dari mahasiswa yang berasal 
     dari kelas yang berbeda. Namun, mekanisme penulisan kelompok pada github kurang teratur. 
     
-3m) Persiapan UAS
+3o) Persiapan UAS
     Persiapan UAS dilakukan dalam jangka waktu yang cukup lama sehingga mahasiswa memiliki waktu lebih untuk mengerjakan
     tugas tersebut. Kemudian sebelumnya Pak Rahmat juga telah membagikan thread di SCELE tentang pembuatan script yang 
     sangat membantu untuk persiapan UAS dan tahap - tahap selanjutnya. Pada awalnya, saya sempat mengalami kesulitan 
     karena beberapa hal teknis yang berada pada berkas soal. Namun, setelah paham, ini sangat membantu untuk mengerjakan
     tahap - tahap selanjutnya.
 
-3n) Tahap 1
+3p) Tahap 1
     Pada tahap 1 ini mahasiswa diminta untuk mengecek berkas pribadi dan berkas tetangga. Pak Rahmat memperbolehkan
     untuk mengecek dengan cara manual atau script. Pada tahap 1, saya menyalin berkas yang ada dalam badak ke github.
     Hal ini menimbulkan beberapa error, padahal berkas yang terdapat pada badak sama persis dengan yang di push ke dalam
     github. Selain itu, berkas soal yang ada sangat banyak sehingga perlu teliti dalam membaca soal.
 
-3o) Tahap 2
+3q) Tahap 2
     Tahap 2 dilakukan secara berkelompok. Pengerjaan secara berkelompok ini sehingga pengerjaan menjadi lebih mudah.
     Tahap 2 ini cenderung lebih sulit dibanding tahap sebelumnya. Hal ini membuat mahasiswa menjadi kebingungan saat 
     mengerjakan tahap 2. Selain itu, dengan tingkat kesulitan yang lebih namun bobot penilaian tahap 2 ini tidak sebesar 
     tahap sebelumnya. 
 
-3p) Tahap 3
+3r) Tahap 3
     Tahap 3 juga dilakukan secara berkelompok. Tahap 3 ini cenderung lebih mudah dibandingkan tahap 2. Soal yang 
     diberikan sedikit mirip dengan tahap sebelumnya sehingga dapat mengimplementasikan kode sebelumnya dengan sedikit 
     modifikasi. Kerangka codingan juga sudah diberikan sehingga tidak perlu untuk membuat codingan dari awal. Bobot 
     penilaian tahap 3 juga lebih kecil dibandingkan dengan tahap 2. 
 
-3q) Tahap 4
+3s) Tahap 4
     Tahap 4 kembali dilakukan secara berkelompok. Tugas pada tahap 4 sedikit rancu. Diberitahu boleh menggunakan 
     implementasi sendiri, tetapi jika implementasinya terdapat perbedaan disalahkan. Hal tersebut sangatlah dirasa 
     merugikan karena peserta ujian seperti diminta untuk menebak isi pikiran dari pembuat soal. Tugas 4 cenderung lebih
     sulit dibanding tahap sebelumnya namun waktu yang diberikan lebih sedikit. Hal ini mungkin dilakukan untuk
     menyeleksi mahasiswa pada tahap 4 ini.
 
-3r) Tahap 5
+3t) Tahap 5
     Setelah 3 tahap sebelumnya dilakukan secara berkelompok, tahap 5 ini dilakukan secara individual. Waktu yang diberikan
     hanya 3 jam, namun masih bisa di lanjutkan sampai besok harinya tetapi nilai akan dikurangi. Soal pada tahap 5 ini
     juga cukup sulit. Namun dengan adanya tahap 5 ini mahasiswa menjadi mengerti akan penerapan FUSE. Soal ini mungkin
