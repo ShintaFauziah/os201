@@ -1,3 +1,4 @@
+# REV08 Mon Jul  29 20:23:33 WIB 2020
 # REV07 Mon Jul  27 18:56:52 WIB 2020
 # REV06 Mon Jul  27 14:04:27 WIB 2020
 # REV05 Fri Jul  24 16:02:47 WIB 2020
@@ -262,10 +263,8 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     OS menggunakan whatsapp group untuk menyampaikan informasi dan SCELE untuk tanya jawab materi dan demo. Selain itu,
     apabila terdapat pertanyaan - pertanyaan yang bersifat pribadi, mahasiswa dapat mengirimkan pesan melalui email.
     Berbeda dengan mata kuliah lainnya dimana SCELE digunakan untuk menyampaikan informasi dan tanya jawab biasanya 
-    dilakukan melalui email. Menurut saya, tanya jawab pada SCELE jauh lebih baik karena semua mahasiswa dapat melihatnya. 
-    Tidak seperti email yang hanya bisa dilihat oleh mahasiswa yang bersangkutan. Namun, dengan adanya whatsapp group
-    dan SCELE ini, mahasiswa harus mengecek dengan frekuensi yang cukup sering sehingga mahasiswa tidak ketinggalan 
-    informasi.
+    dilakukan melalui email. Dengan adanya whatsapp group dan SCELE ini, mahasiswa harus mengecek dengan frekuensi yang
+    cukup sering sehingga mahasiswa tidak ketinggalan informasi.
 
 3e) Youtube
     Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat 
@@ -282,8 +281,9 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     lainnya. Mungkin hal ini dikarenakan mahasiswa merasa apa yang ingin ditanyakan mirip dengan yang sudah ditanyakan 
     mahasiswa lain. Sehingga mahasiswa akhirnya ikut bertanya pada thread mahasiswa lain. Namun, dengan thread yang
     begitu banyak, forum diskusi di SCELE terlihat sangat berantakan. Mahasiswa perlu lebih teliti dalam melihat judul
-    thread yang ada pada SCELE. Selain itu, SCELE juga digunakan untuk Absen. Agar tidak ketinggalan informasi, mahasiswa
-    perlu membuka SCELE dengan frekuensi yang cukup sering. 
+    thread yang ada pada SCELE. Namun, tanya jawab pada SCELE sudah baik karena semua mahasiswa dapat melihatnya. Selain
+    itu, SCELE juga digunakan untuk Absen. Agar tidak ketinggalan informasi, mahasiswa perlu membuka SCELE dengan 
+    frekuensi yang cukup sering. 
 
 3h) Git dan Github
     Pada awalnya, absen dilakukan melalui SCELE. Namun setelah itu, dibentuk proyek github bersama dan absen dilakukan
@@ -360,4 +360,4 @@ Shinta Fauziah/A/1806147180/ShintaFauziah
     Setelah 3 tahap sebelumnya dilakukan secara berkelompok, tahap 5 ini dilakukan secara individual. Waktu yang diberikan
     hanya 3 jam, namun masih bisa di lanjutkan sampai besok harinya tetapi nilai akan dikurangi. Soal pada tahap 5 ini
     juga cukup sulit. Namun dengan adanya tahap 5 ini mahasiswa menjadi mengerti akan penerapan FUSE. Soal ini mungkin
-    akan mudah dikerjakan apabila mahasiswa sudah paham betul tetntang materi FUSE. 
+    akan mudah dikerjakan apabila mahasiswa sudah paham betul tetntang materi FUSE.
