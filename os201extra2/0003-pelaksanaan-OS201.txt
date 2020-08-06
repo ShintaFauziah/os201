@@ -1,3 +1,4 @@
+# REV06 Mon Aug  08 21:53:49 WIB 2020
 # REV05 Mon Jul  27 19:01:17 WIB 2020
 # REV04 Thu Jul  23 18:30:04 WIB 2020
 # REV03 Thu Jul  23 15:11:30 WIB 2020
@@ -40,6 +41,8 @@ scele untuk tanya jawab materi ataupun demo.
 3) Melakukan zoom, namun zoom hanya dilakukan 2 kali.
 4) Tanya jawab materi ataupun demo dilakukan melalui scele. 
 5) Awalnya absen dilakukan pada scele, namun setelah itu dibentuk proyek github bersama dan absen dilakukan pada github.
+6) Seperti di mata kuliah basdat, basdat menyediakan forum yang dianggap "wajib" sehingga mahasiswa dituntut untuk
+   selalu belajar akan materi di minggu tersebut. Sedangkan untuk OS, tidak terdapat hal tersebut.
 
 3. PERBANDINGAN UTS OS DENGAN UTS LAINNYA
 =========================================
